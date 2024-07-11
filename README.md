@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prav-kotte1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Data Science, while also brushing my problem solving skills by solving A2Z Striver Sheet.
 - 😄 Pronouns: she/her
 
 <!---
