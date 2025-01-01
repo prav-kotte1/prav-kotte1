@@ -1,7 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Pravallika, a Full Stack Web Developer 👋🏼:
-🛜 currently working on my own [webpage]([https://www.tobiasmeyhoefer.de](https://pravkotte.netlify.app/))<br>👨🏼‍🎓 studying Integrated Masters in Technology at IIIT Gwalior<br>👨🏼‍💻 working as a web developer since 2023.
+🛜 currently working on my own [webpage]([https://pravkotte.netlify.app/])<br>👨🏼‍🎓 studying Integrated Masters in Technology at IIIT Gwalior<br>👨🏼‍💻 working as a web developer since 2023.
 
 
 # 💻 Tech Stack:
