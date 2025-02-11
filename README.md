@@ -1,6 +1,6 @@
 
 # Hello World!, I'm Pravallika, a Full Stack Web Developer 👋🏼:
-🛜 currently working on my own [webpage]([https://pravkotte.netlify.app/])<br>👨🏼‍🎓 studying Integrated Masters in Technology at IIIT Gwalior<br>👨🏼‍💻 working as a web developer since 2023.
+🛜 currently working on my own Web development technologies, and Basic Data Analytics<br>👨🏼‍🎓 studying Integrated Masters in Technology at IIIT Gwalior<br>👨🏼‍💻 working as a web developer since 2023.
 
 
 # 💻 Tech Stack:
