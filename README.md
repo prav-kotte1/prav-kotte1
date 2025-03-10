@@ -1,6 +1,5 @@
  Hi there, I'm Kotte Pravallika! 👋
 
- 🚀 About Me
 I'm a passionate developer with experience in web development, problem-solving, and software engineering. I enjoy building innovative projects and constantly learning new technologies.
 
  🔧 Skills & Technologies
