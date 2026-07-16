@@ -52,4 +52,5 @@ collection of dsa implementations, competitive programming snippets, and problem
 [github](https://github.com/prav-kotte1) •
 [leetcode](https://leetcode.com/u/pravallika67/) •
 [codeforces](https://codeforces.com/profile/pkotte) •
-[codechef](https://www.codechef.com/users/deft_foxes_93)
+[codechef](https://www.codechef.com/users/deft_foxes_93) •
+[x/formerly twitter](https://x.com/alrPrav)
